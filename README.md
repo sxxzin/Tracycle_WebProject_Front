@@ -1,5 +1,5 @@
-#### :link: 백엔드 - [Tracycle_WebProject_Back](https://github.com/eoc940/Tracycle_WebProject_Back)
-#### :link: AI - [Tracycle_Ai](https://github.com/eoc940/Tracycle_Ai)
+#### :link: 백엔드 - [Tracycle_WebProject_Back](https://github.com/sxxzin/Tracycle_WebProject_Back)
+#### :link: AI - [Tracycle_Ai](https://github.com/sxxzin/Tracycle_Ai)
 
 <br>
 
