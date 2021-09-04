@@ -101,10 +101,11 @@ https://user-images.githubusercontent.com/67304980/130461605-85939319-8ff5-4e16-
   
 ### :family: Contributors
 --- 
+- [sxxzin](https://github.com/sxxzin)
 - [Cloud0720](https://github.com/Cloud0720)
 - [EunchongJeong](https://github.com/EunchongJeong)
 - [iceman-brandon](https://github.com/iceman-brandon)
 - [Koartifact](https://github.com/Koartifact)
 - [SS0mmy](https://github.com/SS0mmy)
 - [Suziny91](https://github.com/Suziny91)
-- [sxxzin](https://github.com/sxxzin)
+
